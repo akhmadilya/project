@@ -1,0 +1,64 @@
+    .main-home {
+        background-image: url(../../images/widgets/main-home-img.jpg);
+        background-size: cover;
+        width: 90%;
+        margin: auto;
+        border: 10px solid #fff;
+        height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .home-content {
+        background-color: #fff;
+        width: 60%;
+        text-align: center;
+        padding: 50px 0;
+    }
+    
+    .home-content>h3 {
+        font-weight: 400;
+        font-size: 40px;
+        font-family: 'Lora', serif;
+    }
+    
+    .home-content>p {
+        margin: 30px 0;
+        font-size: 14px;
+        color: #4f4f4f;
+        font-weight: 200;
+    }
+    
+    .collaboration {
+        background-image: url(../../images/widgets/wotk-together.jpg);
+        background-size: cover;
+        width: 90%;
+        margin: auto;
+        border: 10px solid #fff;
+        height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .work-together {
+        background-color: #fff;
+        width: 64%;
+        text-align: center;
+        padding: 50px 0;
+        border: solid 1px #e5d0cf;
+    }
+    
+    .work-together h3 {
+        font-weight: 400;
+        font-size: 30px;
+        font-family: 'Lora', serif;
+    }
+    
+    .work-together p {
+        margin: 30px 0;
+        font-size: 14px;
+        color: grey;
+        font-weight: 200;
+    }
