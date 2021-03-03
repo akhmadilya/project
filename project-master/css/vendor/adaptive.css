@@ -1,0 +1,65 @@
+@media (max-width: 832px) {
+    .navs {
+        display: none;
+    }
+    .mobile-bar.fas {
+        display: block;
+    }
+    .home-content h3 {
+        font-size: 20px;
+    }
+    .home-content .btn {
+        width: 90px;
+        font-size: 10px;
+    }
+    .about-block h3 {
+        padding-left: 20px;
+    }
+    .about-block p {
+        font-size: 10px;
+    }
+    .about-block {
+        width: 100%;
+    }
+    .service-item {
+        flex-direction: column;
+    }
+    .service-info {
+        width: 70%;
+        height: 50%;
+        align-items: center;
+    }
+    .service-info h3 {
+        font-size: 12px;
+    }
+    .service-info p {
+        font-size: 10px;
+        padding-bottom: 5px;
+    }
+    .service-info .btn {
+        width: 50%;
+        font-size: 8px;
+    }
+    .partners-logo {
+        justify-content: center;
+    }
+    .clients img {
+        flex-direction: column;
+        width: 50%;
+        justify-content: space-between;
+    }
+    .quotation {
+        font-size: 8px;
+        width: 40%;
+    }
+    .work-together h3 {
+        font-size: 20px;
+    }
+    .work-together .btn {
+        width: 90px;
+        font-size: 10px;
+    }
+    .date p {
+        font-size: 12px;
+    }
+}
